@@ -17,6 +17,9 @@ The challenge was addressed through the following:
  - selectors for header and footer
  - article elements in main and article elements in aside
 
+# Usage
+You can access the webpage through this link: https://darrendoan.github.io/horiseon-code-refactor/ 
+
 # Credits
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 
