@@ -17,5 +17,6 @@ The challenge was addressed through the following:
  - selectors for header and footer
  - article elements in main and article elements in aside
 
-
+# Credits
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide 
 
